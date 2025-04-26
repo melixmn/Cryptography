@@ -1,4 +1,4 @@
-input / output
+input (oxab)/ output(oxad)
 
 
 ![fig1](https://github.com/melixmn/cryptography/blob/main/oxab.png)
