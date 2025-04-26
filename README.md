@@ -5,4 +5,6 @@ input / output
 
 
 
-![fig1](https://github.com/melixmn/cryptography/blob/main/oxac.png)
+![fig1](https://github.com/melixmn/cryptography/blob/main/oxcb.png)
+
+![fig1](https://github.com/melixmn/cryptography/blob/main/oxa2.png)
